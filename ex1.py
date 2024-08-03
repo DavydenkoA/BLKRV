@@ -1,0 +1,6 @@
+#a, b = input().split()
+a, b = map(str, input().split())
+a,b,c=map(int, input().split())
+a = input()
+marks = list(map(int, input().split()))
+print("".join(lst))
